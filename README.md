@@ -6,7 +6,7 @@ Technical designer and programmer with 6+ years of experience seeking senior-lev
 
 ### Core Combat Loop
 
-![giacobbi_combat](giacobbi_combat.mp4)
+https://github.com/VivianGiacobbi/portfolio/assets/57081585/0d499505-7b00-4e55-b80e-f75d809aefff
 
 The core combat loop of Playable World's untitled MMO took inspiration from fast-action arcade games of the 1980s and 1990s, in stark contrast to the tab targeting MMOs of the past 20 years. Player characters can freely run, fly, and dodge to counter enemies.
 
