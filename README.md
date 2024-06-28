@@ -1,6 +1,6 @@
 # Vivian Giacobbi's Portfolio
 
-Technical designer and programmer with 6+ years of experience seeking senior-level design position on action-oriented and sandbox games. My previous work was on the cloud sandbox MMO created by [PlayableWorlds](https://www.playableworlds.com/)
+Technical designer and programmer with 6+ years of experience seeking intermediate to senior level technical design position on action-oriented games. My previous work was on the cloud sandbox MMO created by [PlayableWorlds](https://www.playableworlds.com/)
 
 ## Gameplay Scripting
 As technical designer at Playable Worlds, my primary role was to design, implement, iterate on, and document core features of the game both in-engine using Unity and via our proprietary scripting solution. Working as a designer, a programmer, and a product owner on major features, I spent most of my days iterating on player-facing content and sticking to our core mission: finding fun!
@@ -60,14 +60,18 @@ The combat videos above display changing equipment in-battle using the inventory
 https://github.com/VivianGiacobbi/portfolio/assets/57081585/e30df52a-079e-4859-887d-a15dc97e551b
 
 ### For fun: 3D Tetris!
-I also love to create little coding projects in the meantime. This one wasn't created for PlayableWorlds, and was instead a fun distraction. It's a simple 3D Tetris-styled game where the goal is to create the smallest dimension possible by placing the blocks in the 3D landscape. To navigate the 3D environment, I took inspiration from the Gummi Ship garage in Kingdom Hearts, and the pieces are randomly created by a custom depth-first search in 3D space using each voxel as a node in the tree, which is then "sliced" into multiple pieces.
+I also love to create little coding projects in the meantime. This one wasn't created for Playable worlds, and was instead a fun distraction. It's a simple 3D Tetris-styled game where the goal is to create the smallest dimension possible by placing the blocks in the 3D landscape. To navigate the 3D environment, I took inspiration from the Gummi Ship garage in Kingdom Hearts, and the pieces are randomly created by a custom depth-first search in 3D space using each voxel as a node in the tree, which is then "sliced" into multiple pieces.
 
 https://github.com/VivianGiacobbi/portfolio/assets/57081585/d2396dac-c3a0-4e0b-90ac-fc4fafb294c2
 
 ## Design Documentation
-https://github.com/VivianGiacobbi/portfolio/blob/5aa8218518b3b90f0593f90307d6319546edd687/giacobbi_diagram_movement.pdf
+Although I primarily worked in a scripting capacity at Playable Worlds, I am a trained designer and often leveraged these skills when speccing out major systems or assisting other designers in implementation. Below
 
+I created this diagram to assist another technical designer with updating and refining our game's core character controllers. This flow chart diagram tracks all transitions and available actions in our main game states.
+[Movement States Diagram](https://github.com/VivianGiacobbi/portfolio/blob/5aa8218518b3b90f0593f90307d6319546edd687/giacobbi_diagram_movement.pdf)
+
+This diagram was a brainstorming exercise for player progression in skill trees. It was a ton of fun creating small narratives for how players advance along their chosen paths, and justifying why they upgrade their weapons and gain special moves.
+[Player Skills Diagram](https://github.com/VivianGiacobbi/portfolio/blob/dbb81cd9df6b5b765bc3e65d102ec1d98f3a7d60/giacobbi_diagram_skills.pdf)
 
 ## 🚀 About Me
 I'm Vivian Giacobbi, a technical designer based out of Nashville, Tennessee. My primary experience lies with networked action games and single-player puzzle games.
-
