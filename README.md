@@ -1,6 +1,6 @@
 # Vivian Giacobbi's Portfolio
 
-Technical designer and programmer with 6+ years of experience seeking senior-level design position on action-oriented and sandbox games.
+Technical designer and programmer with 6+ years of experience seeking senior-level design position on action-oriented and sandbox games. My previous work was on the cloud sandbox MMO created by [PlayableWorlds](https://www.playableworlds.com/)
 
 ## Gameplay Scripting
 As technical designer at Playable Worlds, my primary role was to design, implement, iterate on, and document core features of the game both in-engine using Unity and via our proprietary scripting solution. Working as a designer, a programmer, and a product owner on major features, I spent most of my days iterating on player-facing content and sticking to our core mission: finding fun!
@@ -65,6 +65,7 @@ I also love to create little coding projects in the meantime. This one wasn't cr
 https://github.com/VivianGiacobbi/portfolio/assets/57081585/d2396dac-c3a0-4e0b-90ac-fc4fafb294c2
 
 ## Design Documentation
+[giacobbi_diagram_skills.pdf](https://github.com/user-attachments/files/16025096/giacobbi_diagram_skills.pdf)
 
 
 ## 🚀 About Me
