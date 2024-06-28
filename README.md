@@ -65,12 +65,14 @@ I also love to create little coding projects in the meantime. This one wasn't cr
 https://github.com/VivianGiacobbi/portfolio/assets/57081585/d2396dac-c3a0-4e0b-90ac-fc4fafb294c2
 
 ## Design Documentation
-Although I primarily worked in a scripting capacity at Playable Worlds, I am a trained designer and often leveraged these skills when speccing out major systems or assisting other designers in implementation. Below
+Although I primarily worked in a scripting capacity at Playable Worlds, I am a trained designer and often leveraged these skills when speccing out major systems or assisting other designers in implementation.
 
 I created this diagram to assist another technical designer with updating and refining our game's core character controllers. This flow chart diagram tracks all transitions and available actions in our main game states.
+
 [Movement States Diagram](https://github.com/VivianGiacobbi/portfolio/blob/5aa8218518b3b90f0593f90307d6319546edd687/giacobbi_diagram_movement.pdf)
 
 This diagram was a brainstorming exercise for player progression in skill trees. It was a ton of fun creating small narratives for how players advance along their chosen paths, and justifying why they upgrade their weapons and gain special moves.
+
 [Player Skills Diagram](https://github.com/VivianGiacobbi/portfolio/blob/dbb81cd9df6b5b765bc3e65d102ec1d98f3a7d60/giacobbi_diagram_skills.pdf)
 
 ## 🚀 About Me
