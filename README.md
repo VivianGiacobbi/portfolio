@@ -30,6 +30,7 @@ As lead on these encounters, I built these bosses with accessible data knobs so 
 Resource collection and crafting are core tenants of Playable World's MMO, and nearly every surface and object in the world is harvestable for resource units. Leveraging our proprietary technology, I created player harvesting tools to tunnel through the world and terraform planets to the players' whims.
 
 https://github.com/VivianGiacobbi/portfolio/assets/57081585/f962a5a0-8318-42ca-945a-34e2b95de8ec
+
 https://github.com/VivianGiacobbi/portfolio/assets/57081585/5696ce2c-34fc-41bd-a5c3-b518eb978302
 
 Our simulated world enabled players to collect more distinct props such as trees, which share resource tags with terrain to make them as reactive to player actions. Shown below, I created and owned systems to simulate tree growth, allowing them to evolve from seedling to sapling to mature adult, spread new saplings at maturity, and be harvested for wood with another player tool.
