@@ -65,7 +65,7 @@ I also love to create little coding projects in the meantime. This one wasn't cr
 https://github.com/VivianGiacobbi/portfolio/assets/57081585/d2396dac-c3a0-4e0b-90ac-fc4fafb294c2
 
 ## Design Documentation
-[giacobbi_diagram_skills.pdf](https://github.com/user-attachments/files/16025096/giacobbi_diagram_skills.pdf)
+https://github.com/VivianGiacobbi/portfolio/blob/5aa8218518b3b90f0593f90307d6319546edd687/giacobbi_diagram_movement.pdf
 
 
 ## 🚀 About Me
