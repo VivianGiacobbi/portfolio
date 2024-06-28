@@ -3,9 +3,9 @@
 Technical designer and programmer with 6+ years of experience seeking senior-level design position on action-oriented and sandbox games.
 
 ## Gameplay Scripting
+As technical designer at Playable Worlds, my primary role was to design, implement, iterate on, and document core features of the game both in-engine using Unity and via our proprietary scripting solution. Working as a designer, a programmer, and a product owner on major features, I spent most of my days iterating on player-facing content and sticking to our core mission: finding fun!
 
 ### Core Combat Loop
-
 https://github.com/VivianGiacobbi/portfolio/assets/57081585/0d499505-7b00-4e55-b80e-f75d809aefff
 
 The core combat loop of Playable World's untitled MMO took inspiration from fast-action arcade games of the 1980s and 1990s. Player characters can freely run, fly, and dodge to counter enemies. My primary goal was to capture a feeling of speed and reactivity long absent in major MMOs, and to reward players with skillful aim who participate in combat. However, we also took care to balance for more casual players, with homing and AOE weapons to reward alternate, less precise playstyles.
@@ -15,13 +15,11 @@ https://github.com/VivianGiacobbi/portfolio/assets/57081585/aaf8578c-ba27-45d4-a
 As technical designer, I led development on the core combat functionality. I also personally owned and created the powerups system (seen above), resource tables, and item collection to highlight and reward active gameplay.
 
 ### Aggro Tooling
-
 https://github.com/VivianGiacobbi/portfolio/assets/57081585/caf2ebe3-7d56-4a19-b140-2f51b69cd58c
 
 This is developer tooling I created  in-engine at Playable Worlds in order to debug enemy aggression in combat. As product owner of our game's combat, I oversaw constant iteration of how enemies perceived players in our living world and wanted to provide other developers easy visibility on how enemies make combat choices. In this system, players are dropped aggro at a certain distance and after they've last procced aggro. The tool shows the player's position in an enemy's list of threats, as well as the distance and idle period remaining for a player to be completely forgotten.
 
 ### Procedural Boss Encounters
-
 https://github.com/VivianGiacobbi/portfolio/assets/57081585/0a799879-b952-4945-aa6d-ef938b91a5db
 
 To fulfill our mission statement of "creating the most living world in gaming", I experimented with boss encounters to capture the feeling of MMO raid mechnics while allowing us to procedurally spawn them upon creating new worlds. Not only do the enemy spawners act to sustain the ecology of a world by creating new inhabitants, they are also dangerous foes themselves. Players must discover them, fend off guarding sentries, and coordinate to hack outlying weak points that power their shields. 
@@ -29,7 +27,6 @@ To fulfill our mission statement of "creating the most living world in gaming", 
 As lead on these encounters, I built these bosses with accessible data knobs so designers could tune and test them for quick iteration. Spawners can spawn varying numbers of hackable points, create variable size waves of defending enemies when threatened, cloak themselves, and even fire their own procedurally generated attacks at players.
 
 ### Crafting Loop
-
 https://github.com/VivianGiacobbi/portfolio/assets/57081585/f962a5a0-8318-42ca-945a-34e2b95de8ec
 
 https://github.com/VivianGiacobbi/portfolio/assets/57081585/5696ce2c-34fc-41bd-a5c3-b518eb978302
@@ -45,8 +42,31 @@ https://github.com/VivianGiacobbi/portfolio/assets/57081585/babd0fab-dac3-4066-b
 I also assisted in design of our crafting system, from its initial spec all the way to the data and scripting needed to make it player facing. All materials that the player collects can be used in a crafting system to provide them stronger tools, more interesting gameplay mechanics, and collectables to help sustain them in combat.
 
 ## Downloadable Prototypes
+In my original role at PlayableWorlds, I was tasked with quickly creating an iterating on standalone prototypes of game systems to test our specs and pave the way for in-engine implementation. Some of these protoypes were fast——turnarounds of two days or less! I leveraged my skills using Unity's quick prototyping tools and editor scripting to return quick results. All design, scripting, art, UI, and animation in these prototypes is created custom by me and using free assets.
 
-// to be updated
+### Jetpack Flight
+https://github.com/VivianGiacobbi/portfolio/assets/57081585/3d40b20a-88fe-4fac-bcf5-19473627bed9
+
+A major component of our game's combat is verticality, and the player uses a gravity pack to jet around to evade and snipe enemies. Before we had character controller systems to implement jetpacks in-game, I created a dirty prototype to allow designers to test and tune variables for player flight as early as our first spec, including how it interacted with fall damage and limited fuel. This prototype includes an editor menu derived from Unity's editor inspectors, allowing the player to set various exposed data values, and even choose and save presets.
+
+### Resource Extraction
+https://github.com/VivianGiacobbi/portfolio/assets/57081585/1efbb9c5-371d-4a18-96be-ec53af7b7e14
+
+In the tunneling video above, the player's mining laser draws resources from the soil and rock they dig away. This prototype was an early visualization of the underlying sim using my own custom generation scripts. Each cell has internal data for resources (denoted by colored pixels) that are drawn on the textures, and we wanted to test various knobs for the player's future tool such as its radius, depth, and the amount it can extract per cell.
+
+### Player Inventory and Radial Menu
+https://github.com/VivianGiacobbi/portfolio/assets/57081585/e30df52a-079e-4859-887d-a15dc97e551b
+
+The combat videos above display changing equipment in-battle using the inventory window as well as a radial menu for using consumable items. I prototyped both of these systems here in a simple scene where the target switches "weaknesses" to various weapons in the player's inventory. This additionally was used as a test for controller support for major game systems, and I created the display at the bottom right highlighting button inputs to hightlight both control schemes.
+
+### For fun: 3D Tetris!
+https://github.com/VivianGiacobbi/portfolio/assets/57081585/d2396dac-c3a0-4e0b-90ac-fc4fafb294c2
+
+I also love to create little coding projects in the meantime. This one wasn't created for PlayableWorlds, and was instead a fun distraction. It's a simple 3D Tetris-styled game where the goal is to create the smallest dimension possible by placing the blocks in the 3D landscape. To navigate the 3D environment, I took inspiration from the Gummi Ship garage in Kingdom Hearts, and the pieces are randomly created by a custom depth-first search in 3D space using each voxel as a node in the tree, which is then "sliced" into multiple pieces.
+
+## Design Documentation
+
+
 ## 🚀 About Me
 I'm Vivian Giacobbi, a technical designer based out of Nashville, Tennessee. My primary experience lies with networked action games and single-player puzzle games.
 
