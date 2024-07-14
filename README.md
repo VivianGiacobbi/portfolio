@@ -8,7 +8,7 @@ As technical designer at Playable Worlds, my primary role was to design, impleme
 ### Core Combat Loop
 The core combat loop of Playable World's untitled MMO took inspiration from fast-action arcade games of the 1980s and 1990s. Player characters can freely run, fly, and dodge to counter enemies. My primary goal was to capture a feeling of speed and reactivity long absent in major MMOs, and to reward players with skillful aim who participate in combat. However, we also took care to balance for more casual players, with homing and AOE weapons to reward alternate, less precise playstyles.
 
-https://github.com/VivianGiacobbi/portfolio/assets/57081585/0d499505-7b00-4e55-b80e-f75d809aefff
+https://github.com/VivianGiacobbi/portfolio/assets/57081585/389beff2-fec2-4247-a975-a09356e8b4b1
 
 As technical designer, I led development on the core combat functionality. I also personally owned and created the powerups system (below), resource tables, and item collection to highlight and reward active gameplay.
 
