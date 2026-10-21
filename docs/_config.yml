@@ -20,23 +20,22 @@
 
 title: Vivian Giacobbi/Portfolio
 email: viviangiacobbi@gmail.com
-description:
+description: >- # this means to ignore newlines until "baseurl:"
   My portfolio covering professional work as well as personal projects
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  VivianGiacobbi
 
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: jekyll/minima@41b97699af658128fa9983e5312ca5516641f335
 plugins:
-- jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-remote-theme
 author:
   name: Vivian Giacobbi
   email: "viviangiacobbi@gmail.com"
 
-# Dimensions
-max_width: 800px
-
-
-
-# Webp Images
-imagemagick:
-  enabled: false
+minima:
+  social_links:
+    github:  VivianGiacobbi
+  skin: dark
