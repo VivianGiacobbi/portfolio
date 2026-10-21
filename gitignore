@@ -1,4 +1,2 @@
-docs/assets/PBWebTest/*
-docs/_site/assets/PBWebTest/*
-docs/_SITEDELETESALL
-workshop/*
+docs/_site
+docs/.sass-cache
