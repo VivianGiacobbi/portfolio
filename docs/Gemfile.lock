@@ -281,6 +281,7 @@ DEPENDENCIES
   csv (~> 3.3)
   github-pages
   http_parser.rb (~> 0.6.0)
+  jekyll-remote-theme
   kramdown-parser-gfm
   logger (~> 1.7)
   tzinfo (~> 1.2)
