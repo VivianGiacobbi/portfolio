@@ -151,7 +151,9 @@
   <p>Below is in-engine developer tooling I created in order to debug enemy aggression. I wanted to provide other developers easy visibility on how enemies make combat choices, and this tool shows the player's position in an enemy's list of threats, as well as the distance and idle period remaining for a player to be completely dropped from enemy aggro.</p>
 
   <center>
-    <video src="assets/starsreach/giacobbi_starsreach_aggrotooling.mp4" width="600" autoplay controls muted loop></video>
+    <video width="600" autoplay controls muted loop>
+      <source type="video/mp4" src="assets/starsreach/giacobbi_starsreach_aggrotooling.mp4">
+    </video>
   </center>
   <br>
 
