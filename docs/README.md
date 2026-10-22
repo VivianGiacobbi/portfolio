@@ -14,9 +14,51 @@
 
 <center>
   <img src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/megamix/giacobbi_megamix_title.png" alt="Megamix Engine 2" width="588">
-  <a href="https://github.com/snoruntpyro/MegamixEngine2">GitHub</a>
+  <a href="https://www.magmmlcontest.com/">Website</a>
 </center>
 
+<details>
+  <p>Since 2026, I've worked as a leading contributor on Megamix Engine 2, the successor to the original <a href="https://github.com/MegamixEngine/MegamixEngine">Megamix Engine</a>, providing tools, presets, and examples to ease the creation of fangames for Capcom's Mega Man franchise. The engine is used in the Make a Good Mega Man Level games, collaborative projects where participants design levels in the style of the NES Mega Man games, which are then judged and collected into a cohesive project.</p>
+
+  <h3>Porting and Systems Design</h3>
+  <p>Megamix Engine 2 is ported and updated from the Megamix Engine to use modern versions of GameMaker, and takes advantage of its better Room Editor, data structures, and script support.</p>
+
+  <h4>Gravity Changes and Altered Physics</h4>
+  <p>Gravity mechanics are hotly requested by participants, and I've helped develop Megamix 2's four-way gravity system to rotate
+  and invert player drawing and physics</p>
+  <center>
+    <video src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/fanworks/giacobbi_megamix_rushgravity.mp4" width="600" autoplay controls muted loop playsinline></video>
+  </center>
+  </br>
+
+  <h4>Weapon Customization</h4>
+  <p>One of my primary contributions is data-driven customization for weapons, a key aspect of Mega Man style gameplay. Weapons
+  are data structures with exposed variables that customize a generic object, easing the need for programmers to create bespoke weapon objects and systems.</p>
+  <center>
+    <video src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/fanworks/giacobbi_megamix_enemyweapon.mp4" width="600" autoplay controls muted loop playsinline></video>
+  </center>
+
+  <p>Weapons have, where possible, been abstracted into a form that can be easily dragged-and-dropped onto players and enemies alike. The classic Sniper Joe enemy holds a weapon struct that manages both its projectile and shield, which are automatically processed on
+  the player.</p>
+  <center>
+    <video src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/fanworks/giacobbi_megamix_joeshield.mp4" width="600" autoplay controls muted loop playsinline></video>
+  </center>
+
+  <h3>Experimental 3D</h3>
+  <p>GameMaker Studio 2 offers robust graphics tools for creating 3D games, despite being a primarily 2D engine. Taking advantage of this, I've begun implementing a 3D extension to Megamix 2, which is an ongoing project to power my own games.
+
+  <h4>2D Sidescrolling/3D First-Person Hybrid Gameplay</h4>
+  <center>
+    <img src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/fanworks/giacobbi_megamix_3d.gif" width="600">
+  </center>
+
+  <h4>Level Editor</h4>
+  <p>To supplement 3D behavior, I built a robust voxel-based level editor from scratch with GameMaker. With key optimizations like a binary greedy mesher based on the work of <a href="https://github.com/TanTanDev/binary_greedy_mesher_demo/blob/main/src/greedy_mesher_optimized.rs">TanTanDev</a> for real-time collision and fast iteration of compressed voxel data, this editor extends the features of GameMaker's tile-based Room Editor with few compromises.</p>
+  <center>
+    <img src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/fanworks/giacobbi_megamix_editor.gif" width="600">
+  </center>
+
+</details>
 
 <h2>2025</h2>
 
