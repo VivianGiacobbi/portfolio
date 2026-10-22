@@ -25,9 +25,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl:
 
 # Build settings
-remote_theme: pages-themes/slate
-plugins:
-  - jekyll-remote-theme
+# remote_theme: pages-themes/slate
+# plugins:
+#   - jekyll-remote-theme
 author:
   name: Vivian Giacobbi
   email: "viviangiacobbi@gmail.com"
