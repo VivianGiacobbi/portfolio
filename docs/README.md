@@ -36,7 +36,7 @@
   </ul>
 
   <center>
-    <video src="assets/fanworks/giacobbi_fanworks_reel.mp4" width="600" autoplay controls muted loop></video>
+    <video src="assets/fanworks/giacobbi_fanworks_reel.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
   <center>
     <img src="assets/fanworks/giacobbi_fanworks_credits.png" width="600">
@@ -50,21 +50,21 @@
   <h4>A brand-new achievements menu</h4>
   <p>Vanilla Balatro lacks a centralized menu for achievements, instead relying on its various platforms to display them. This added menu is visually cohesive with the game's artstyle, and offers control text for names, descriptions, rarities, and categories.</p>
   <center>
-      <video src="assets/fanworks/giacobbi_fanworks_achievements.mp4" width="600" autoplay controls muted loop></video>
+      <video src="assets/fanworks/giacobbi_fanworks_achievements.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
   <br>
 
   <h4>Custom visual effects</h4>
   <p>This effect for a "timeline change" dazzles the player with a fake jump to the title screen before resuming gameplay with a completely changed game state.</p>
   <center>
-      <video src="assets/fanworks/giacobbi_fanworks_crystal.mp4" width="600" autoplay controls muted loop></video>
+      <video src="assets/fanworks/giacobbi_fanworks_crystal.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
   <br>
 
   <h4>An embedded NES emulator</h4>
   <p>One added card required an entire embedded Nintendo Entertainment System emulator drawing on the work of Nico Abram's <a href="https://github.com/nico-abram/LuaNES">LuaNES.</a></p>
   <center>
-      <video src="assets/fanworks/giacobbi_fanworks_cabinet.mp4" width="600" autoplay controls muted loop></video>
+      <video src="assets/fanworks/giacobbi_fanworks_cabinet.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
   <br>
 
@@ -94,14 +94,14 @@
   <h3>Technical Art</h3>
   <p>I offered my work with technical art and shaders to provide unique visual effects to Cardsauce's new card types. Everything goes pop!</p>
   <center>
-      <video src="assets/cardsauce/giacobbi_cardsauce_redstone.mp4" width="600" autoplay controls muted loop></video>
-      <video src="assets/cardsauce/giacobbi_cardsauce_stands.mp4" width="600" autoplay controls muted loop></video>
+      <video src="assets/cardsauce/giacobbi_cardsauce_redstone.mp4" width="600" autoplay controls muted loop playsinline></video>
+      <video src="assets/cardsauce/giacobbi_cardsauce_stands.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
 
   <h3>Systems Programming</h3>
   <p>I added a completely unique card customization menu that dynamically recolors card sprites, and allows the player to customize their visual experience. All UI elements were custom-made by extending Balatro's UI framework, including inique interactable slider, gradient, and radial widgets.</p>
   <center>
-      <video src="assets/cardsauce/giacobbi_cardsauce_palette.mp4" width="600" autoplay controls muted loop></video>
+      <video src="assets/cardsauce/giacobbi_cardsauce_palette.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
   <br>
 </details>
@@ -118,32 +118,32 @@
   <h3>Core Combat</h3>
   <p>I pushed forward on Stars Reach's core combat functionality, taking inspiration from fast-action arcade games of the 1980s and 1990s. Player characters can freely run, fly, and dodge to counter enemies, and are rewarded for skillful play. However, we also took care to balance for more casual players, with homing and AOE weapons to reward less precise playstyles.</p>
   <center>
-      <video src="assets/starsreach/giacobbi_starsreach_combat.mp4" width="600" autoplay controls muted loop></video>
+      <video src="assets/starsreach/giacobbi_starsreach_combat.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
 
   <p>I personally owned and created systems for temporary powerups, resource drops, and item collection highlight and reward active gameplay.</p>
   <center>
-      <video src="assets/starsreach/giacobbi_starsreach_powerups.mp4" width="600" autoplay controls muted loop></video>
+      <video src="assets/starsreach/giacobbi_starsreach_powerups.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
   <br>
 
   <h3>Boss Encounters</h3>
   <p>To fulfill Stars Reach's mission statement of "the most living world in gaming", I experimented with classic raid boss mechanics within our procedural creature generation. Not only do the enemy spawners act to sustain the ecology of a world by creating new inhabitants, they also fulfill that itch of challenging impossible odds. Players must discover them, fend off guarding sentries, and coordinate to hack outlying weak points that power their shields. I built these bosses with accessible data knobs and difficulty options like variable hack points and cloaking behavior so designers could quickly tune and test various iterations</p>
   <center>
-      <video src="assets/starsreach/giacobbi_starsreach_spawners.mp4" width="600" autoplay controls muted loop></video>
+      <video src="assets/starsreach/giacobbi_starsreach_spawners.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
   <br>
 
   <h3>Resource Collection</h3>
   <p>Resource collection and crafting are core tenants of Stars Reach; nearly every surface and object in the world is harvestable for resources. Leveraging our proprietary world simulation, I created player harvesting tools to tunnel through the world and terraform planets to the players' whims.</p>
   <center>
-    <video src="assets/starsreach/giacobbi_starsreach_scanning1.mp4" width="600" autoplay controls muted loop></video>
-    <video src="assets/starsreach/giacobbi_starsreach_scanning2.mp4" width="600" autoplay controls muted loop></video>
+    <video src="assets/starsreach/giacobbi_starsreach_scanning1.mp4" width="600" autoplay controls muted loop playsinline></video>
+    <video src="assets/starsreach/giacobbi_starsreach_scanning2.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
 
   <p>The simulated world allows players to harvest props, which share resource tags with terrain to make them as reactive to player actions. My work on simulated tree growth allows tree props to evolve from seedling to sapling to mature adult, spread new saplings at maturity, and be harvested for wood with another player tool.</p>
   <center>
-    <video src="assets/starsreach/giacobbi_starsreach_treegrowth.mp4" width="600" autoplay controls muted loop></video>
+    <video src="assets/starsreach/giacobbi_starsreach_treegrowth.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
   <br>
 
@@ -151,7 +151,7 @@
   <p>Below is in-engine developer tooling I created in order to debug enemy aggression. I wanted to provide other developers easy visibility on how enemies make combat choices, and this tool shows the player's position in an enemy's list of threats, as well as the distance and idle period remaining for a player to be completely dropped from enemy aggro.</p>
 
   <center>
-    <video width="600" autoplay controls muted loop>
+    <video width="600" autoplay controls muted loop playsinline>
       <source type="video/mp4" src="assets/starsreach/giacobbi_starsreach_aggrotooling.mp4">
     </video>
   </center>
@@ -189,31 +189,31 @@
   <h3>Jetpack Flight</h3>
   <p>Before we had character controller systems to implement jetpacks within Stars Reach, I created a dirty prototype to allow designers to test and tune variables for player flight, including how it interacted with fall damage and limited fuel. This prototype includes an full editor menu, allowing the player to set various exposed data values, and even choose and save presets.</p>
   <center>
-    <video src="assets/proto/giacobbi_proto_flight.mp4" width="600" autoplay controls muted loop></video>
+    <video src="assets/proto/giacobbi_proto_flight.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
 
   <h3>Resource Extraction</h3>
   <p>An early visualization of Stars Reach's resource harvesting using my own custom generation scripts, based in the underlying world simulation Stars Reach uses for its voxel cells. Each cell has internal data for resources (denoted by colored pixels) that are drawn on the textures, which tests various knobs for resource extraction tools such as its radius, depth, and the amount it can extract per cell.</p>
   <center>
-    <video src="assets/proto/giacobbi_proto_extraction.mp4" width="600" autoplay controls muted loop></video>
+    <video src="assets/proto/giacobbi_proto_extraction.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
 
   <h3>Inventory and Radial Menu</h3>
   <p>This prototype simulates an elemental damage and weakness system across multiple weapons, as well as a full interactable item UI that supports both controller and mouse input, to test user feedback for controls and UI before extensive work went into Stars Reach's React-based UI.</p>
   <center>
-    <video src="assets/proto/giacobbi_proto_ui.mp4" width="600" autoplay controls muted loop></video>
+    <video src="assets/proto/giacobbi_proto_ui.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
 
   <h3>Ship Minigames</h3>
   <p>Stars Reach initially had a focus on small micro-games for crafting, and I created multiple games to determine if the greater abstraction between input and output for crafting increased the fun or provided a barrier to entry. This block-building prototype tests the player to combine objects in the smallest possible space for the best result.</p>
   <center>
-    <video src="assets/proto/giacobbi_proto_3d.mp4" width="600" autoplay controls muted loop></video>
+    <video src="assets/proto/giacobbi_proto_3d.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
 
   <h3>Game Boy Adventure</h3>
   <p>Unrelated to my work at Playable Worlds, this prototype uses Gamemaker Studio 2 to create a short-form narrative adventure using the visual style of classic Game Boy titles, which tells the tale of a young kid who stumbles upon a crash-landed alien robot and helps it to recover its missing parts. All systems here——player movement, dialogue, inventory——as well as the in-game art were created by me from the ground-up in three days.</p>
   <center>
-    <video src="assets/proto/giacobbi_proto_gameboy.mp4" width="600" autoplay controls muted loop></video>
+    <video src="assets/proto/giacobbi_proto_gameboy.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
 
 </details>
@@ -244,24 +244,24 @@
 
   <p>A primary goal for this level was minimal direct tutorialization; controls are given in the HUD, but other elements of gameplay are naturally introduced using markings on the walls and floors, color-coding, and animation, such as a starting room that introduces the player to the aggro range of the ghost enemies, as well as shows the player an "incidental" instance of a ghost possessing an object to urge them to experiment with the core mechanic.<p>
   <center>
-    <video src="assets/transmechanism/giacobbi_transmechanism_start.mp4" width="600" autoplay controls muted loop></video>
+    <video src="assets/transmechanism/giacobbi_transmechanism_start.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
   <br>
 
   <p>Further expansions include hostile props such as a possessed turret the player must evade the turret while directing its bullets to cause a system malfunction, and puzzles challenge the player to lead ghost safely through pillars of sunlight towards puzzle objectives, but those same pillars can also be used to evade danger and cordon the level into safe and non-safe areas.<p>
   <center>
-    <video src="assets/transmechanism/giacobbi_transmechanism_turret.mp4" width="600" autoplay controls muted loop></video>
+    <video src="assets/transmechanism/giacobbi_transmechanism_turret.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
   <pr>
 
   <center>
-    <video src="assets/transmechanism/giacobbi_transmechanism_light.mp4" width="600" autoplay controls muted loop></video>
+    <video src="assets/transmechanism/giacobbi_transmechanism_light.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
   <br>
 
   <p>The level ends, once ghost possessions have powered a main generator to open the escape hatch, with an escape sequence setpiece from a massive specter.<p>
   <center>
-    <video src="assets/transmechanism/giacobbi_transmechanism_escape.mp4" width="600" autoplay controls muted loop></video>
+    <video src="assets/transmechanism/giacobbi_transmechanism_escape.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
   <br>
 
