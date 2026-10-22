@@ -27,14 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: VivianGiacobbi
 
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-minima:
-  social_links:
-    github: VivianGiacobbi
-  skin: dark
+theme: jekyll-theme-slate
 author:
   name: Vivian Giacobbi
   email: "viviangiacobbi@gmail.com"
