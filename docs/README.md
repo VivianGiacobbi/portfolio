@@ -50,7 +50,7 @@
   <h4>A brand-new achievements menu</h4>
   <p>Vanilla Balatro lacks a centralized menu for achievements, instead relying on its various platforms to display them. This added menu is visually cohesive with the game's artstyle, and offers control text for names, descriptions, rarities, and categories.</p>
   <center>
-      <video src="assets/fanworks/giacobbi_fanworks_achievements.mp4" width="600" autoplay controls muted loop playsinline></video>
+      <video src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/fanworks/giacobbi_fanworks_achievements.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
   <br>
 
