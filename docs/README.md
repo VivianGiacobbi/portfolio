@@ -57,8 +57,9 @@
   <center>
     <video src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/fanworks/giacobbi_gigaamix_editor.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
-
 </details>
+<br>
+<hr>
 
 <h2>2025</h2>
 
@@ -124,6 +125,8 @@
       <img src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/fanworks/giacobbi_fanworks_mural.png" width="600">
   </center>
 </details>
+<br>
+<hr>
 
 <center>
   <img src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/cardsauce/giacobbi_cardsauce_logo.png" alt="Balatro: Cardsauce" width="600">
@@ -147,6 +150,8 @@
   </center>
   <br>
 </details>
+<br>
+<hr>
 
 <h2>2021-2024</h2>
 <center>
@@ -217,8 +222,9 @@
             height="600">
     </object>
   </center>
-
 </details>
+<br>
+<hr>
 
 <h2>2021-2023</h2>
 <center>
@@ -257,8 +263,9 @@
   <center>
     <video src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/proto/giacobbi_proto_gameboy.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
-
 </details>
+<br>
+<hr>
 
 <h2>2021</h2>
 <center>
@@ -316,3 +323,5 @@
     <img src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/transmechanism/giacobbi_transmechanism_truck.png" width="600">
   </center>
 </details>
+<br>
+<hr>
