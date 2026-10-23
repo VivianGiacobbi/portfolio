@@ -27,7 +27,7 @@
   <p>Gravity mechanics are hotly requested by participants, and I've helped develop Megamix 2's four-way gravity system to rotate
   and invert player drawing and physics</p>
   <center>
-    <video src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/fanworks/giacobbi_megamix_rushgravity.mp4" width="600" autoplay controls muted loop playsinline></video>
+    <img src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/megamix/giacobbi_megamix_rushgravity.gif" width="600">
   </center>
   </br>
 
@@ -35,13 +35,13 @@
   <p>One of my primary contributions is data-driven customization for weapons, a key aspect of Mega Man style gameplay. Weapons
   are data structures with exposed variables that customize a generic object, easing the need for programmers to create bespoke weapon objects and systems.</p>
   <center>
-    <video src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/fanworks/giacobbi_megamix_enemyweapon.mp4" width="600" autoplay controls muted loop playsinline></video>
+    <img src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/megamix/giacobbi_megamix_enemyweapon.gif" width="600">
   </center>
 
   <p>Weapons have, where possible, been abstracted into a form that can be easily dragged-and-dropped onto players and enemies alike. The classic Sniper Joe enemy holds a weapon struct that manages both its projectile and shield, which are automatically processed on
   the player.</p>
   <center>
-    <video src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/fanworks/giacobbi_megamix_joeshield.mp4" width="600" autoplay controls muted loop playsinline></video>
+    <img src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/megamix/giacobbi_megamix_joeshield.gif" width="600">
   </center>
 
   <h3>Experimental 3D</h3>
@@ -49,13 +49,13 @@
 
   <h4>2D Sidescrolling/3D First-Person Hybrid Gameplay</h4>
   <center>
-    <img src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/fanworks/giacobbi_gigaamix_3d.gif" width="600">
+    <img src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/megamix/giacobbi_gigamix_3d.gif" width="600">
   </center>
 
   <h4>Level Editor</h4>
-  <p>To supplement 3D behavior, I built a robust voxel-based level editor from scratch with GameMaker. With key optimizations like a binary greedy mesher based on the work of <a href="https://github.com/TanTanDev/binary_greedy_mesher_demo/blob/main/src/greedy_mesher_optimized.rs">TanTanDev</a> for real-time collision and fast iteration of compressed voxel data, this editor extends the features of GameMaker's tile-based Room Editor with few compromises.</p>
+  <p>To supplement 3D behavior, I built a robust voxel-based level editor from scratch with GameMaker. With key optimizations like a binary greedy mesher based on the work of <a href="https://github.com/TanTanDev/binary_greedy_mesher_demo">TanTanDev</a> for real-time collision and fast iteration of compressed voxel data, this editor extends the features of GameMaker's tile-based Room Editor with few compromises.</p>
   <center>
-    <video src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/fanworks/giacobbi_gigaamix_editor.mp4" width="600" autoplay controls muted loop playsinline></video>
+    <video src="https://github.com/VivianGiacobbi/portfolio/raw/main/docs/assets/megamix/giacobbi_gigamix_editor.mp4" width="600" autoplay controls muted loop playsinline></video>
   </center>
 </details>
 <br>
